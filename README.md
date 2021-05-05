@@ -17,5 +17,5 @@ Obfuscates the Java class contents of JAR files, using experimental and hopefull
 Apache License 2.0: http://www.apache.org/licenses
 
 
-## plans
+## Plans
 I plan to make a working (and good looking) gui for this program and to also add a couple more methods of protecting your code.
