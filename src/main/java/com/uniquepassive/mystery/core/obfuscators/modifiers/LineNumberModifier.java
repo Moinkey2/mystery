@@ -23,6 +23,8 @@ public class LineNumberModifier {
             } else if (lineNumbersAction.equalsIgnoreCase("random")) {
                 this.action = Action.RANDOM;
             }
+        } else {
+            this.action = Action.DISABLED;
         }
 
         this.infoOut = infoOut;
