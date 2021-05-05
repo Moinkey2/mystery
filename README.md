@@ -19,3 +19,7 @@ Apache License 2.0: http://www.apache.org/licenses
 
 ## Plans
 I plan to make a working (and good looking) gui for this program and to also add a couple more methods of protecting your code.
+I will be cleaning code and making it more easy to read but smaller size.
+
+## Original Creator
+https://github.com/devLotto
