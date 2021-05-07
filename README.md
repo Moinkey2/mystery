@@ -23,3 +23,6 @@ I will be cleaning code and making it more easy to read but smaller size.
 
 ## Original Creator
 https://github.com/devLotto
+
+## Done List
+Almost done with gui
